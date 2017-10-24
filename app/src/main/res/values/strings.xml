@@ -41,5 +41,7 @@
         <item>hindi 3</item>
         <item>hindi 4</item>
     </string-array>
+    <string name="title_activity_vocabulary_book">VocabularyBook</string>
+    <string name="section_format">Hello World from section: %1$d</string>
 
 </resources>
